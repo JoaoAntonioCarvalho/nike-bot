@@ -1,4 +1,5 @@
-# nike-bot
+<h1 align="center"> NIKE-BOT </h1>
+
 A bot that cop everything in nike.com.br
 
 Ao entrar no programa, você verá deverá inserir o cookie IFC
