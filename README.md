@@ -1,10 +1,27 @@
 <h1 align="center"> NIKE-BOT </h1>
 
 
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=CONCLUÍDO&color=GREEN&style=for-the-badge)
+![Badge versao](https://img.shields.io/badge/version-1.7.2-blue)
+
+## Índice 
+
+* [Como rodar](#como-rodar)
+* [Badges](#badges)
+* [Índice](#índice)
+* [Descrição do Projeto](#descrição-do-projeto)
+* [Status do Projeto](#status-do-Projeto)
+* [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
+* [Acesso ao Projeto](#acesso-ao-projeto)
+* [Tecnologias utilizadas](#tecnologias-utilizadas)
+* [Pessoas Contribuidoras](#pessoas-contribuidoras)
+* [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
+* [Licença](#licença)
+* [Conclusão](#conclusão)
 
 
 A bot that cop everything in nike.com.br
+
+## Como rodar
 
 Ao entrar no programa, você verá deverá inserir o cookie IFC
 Para pegar o cookie IFC, basta colar no console o código a seguir:
