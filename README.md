@@ -1,5 +1,9 @@
 <h1 align="center"> NIKE-BOT </h1>
 
+
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=CONCLUÍDO&color=GREEN&style=for-the-badge)
+
+
 A bot that cop everything in nike.com.br
 
 Ao entrar no programa, você verá deverá inserir o cookie IFC
